@@ -1,24 +1,6 @@
-# Data-Project-by-Alika
-A portfolio of my data analytics projects built with R and Python, featuring end-to-end workflows: data preprocessing, modeling, visualization, and interpretation.
-
 # Alika Kayla Martiza - Statistics & Data Analytics Portfolio
 
-This repository showcases my journey in statistical learning and real-world data analysis.
-
----
-
-## Objective / Tujuan
-This portfolio is created to showcase my competencies in applying statistical methodologies, data processing, modeling, and scientific reporting.
-
----
-
-## Statistical Expertise / Keahlian Statistika
-- Regression Analysis (Linear, Logistic, Poisson)
-- IRT & Multidimensional Item Response Model
-- Multivariate Analysis (PCA, Factor Analysis)
-- Clustering (K-Medoids, Fuzzy C-Means, Hierarchical)
-- Statistical Process Control
-- Goodness-of-Fit & Hypothesis Testing
+Welcome to my portfolio of data analytics projects built with R and Python, featuring end-to-end workflows including data preprocessing, modeling, visualization, and interpretation — showcasing my journey in statistical learning and real-world data analysis.
 
 ---
 
@@ -45,12 +27,6 @@ This portfolio is created to showcase my competencies in applying statistical me
 
 ---
 
-## 📌 Focus of My Works / Fokus Penelitian
-📍 Applying statistics to support data-driven decision making in Indonesia  
-📍 Penerapan statistika untuk mendukung pengambilan keputusan berbasis data di Indonesia
-
----
-
 ## 👤 About Me
 - **Name:** Alika Kayla Martiza
 - **Program:** Bachelor of Statistics — Padjadjaran Univerisity
@@ -62,7 +38,7 @@ This portfolio is created to showcase my competencies in applying statistical me
 | Platform | Link |
 |---------|------|
 | Email | *alikakaylama@gmail.com* |
-| LinkedIn | *opsional* |
+| LinkedIn | *www.linkedin.com/in/alika-kayla-martiza* |
 | GitHub | *repo ini* |
 
 ---
