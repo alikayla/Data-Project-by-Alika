@@ -19,8 +19,6 @@ Welcome to my portfolio of data analytics projects built with R and Python, feat
 |---------|------|
 | Email | *alikakaylama@gmail.com* |
 | LinkedIn | *www.linkedin.com/in/alika-kayla-martiza* |
-| GitHub | *repo ini* |
-
 ---
 
 Thank you for visiting!  
